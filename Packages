@@ -360,6 +360,27 @@ Description: 提供二进制文件动态解密列表，方便逆向工程应用
 Author: Netskao
 Name: DumpBinaryFiles
 
+Package: netskao.dumpdecrypter
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Installed-Size: 2428
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/rootful/netskao.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Size: 592856
+MD5sum: 067d631e043566ed8c23dd52f1bf04a9
+SHA1: 34f28104a7fde747e9cd6d0486df0ed20cd3d80d
+SHA256: faefccf5a3ceb1a5e2f0fc742c4e9a1d2e9cfc9b7d1c0cbf9f5278613ea6119c
+Section: Tweaks
+Description: DumpDecrypter是基于dumpdecrypted的修改封装
+ 使用方式：打开桌面的DumpDecrypter应用程序选择需要解密的应用，解密的IPA会保存至：/var/mobile/Documents/DumpDecrypter
+ 选择应用后会自动杀掉应用进程重新打开，解密前加载所有Frameworks，解密前停止所有非解密线程，解密完成后自动恢复等(解密后的IPA如果要直接安装，建议重新签名，无论使用的签名证书是否有效，否则某些环境会出现闪退等问题)
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: DumpDecrypter
+Sponsor: Netskao
+
 Package: netskao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm
