@@ -376,8 +376,7 @@ Description: DumpDecrypter是基于dumpdecrypted的修改封装
  使用方式：打开桌面的DumpDecrypter应用程序选择需要解密的应用，解密的IPA会保存至：/var/mobile/Documents/DumpDecrypter
  选择应用后会自动杀掉应用进程重新打开，解密前加载所有Frameworks，解密前停止所有非解密线程，解密完成后自动恢复等(解密后的IPA如果要直接安装，建议重新签名，无论使用的签名证书是否有效，否则某些环境会出现闪退等问题)
 Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Icon2: 5.png
+Icon: file:///Applications/DumpDecrypter.app/AppIcon60x60@3x.png
 Name: DumpDecrypter
 Sponsor: Netskao
 
