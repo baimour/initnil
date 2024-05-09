@@ -1515,6 +1515,25 @@ Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广�
 Author: Netskao
 Name: 芒果TV NoAds
 
+Package: netskao.modernstylesettings
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Netskao <admin@initnil.com>
+Installed-Size: 134
+Depends: firmware (>= 11.0), mobilesubstrate, firmware (<< 15.0)
+Filename: ./debs/rootful/netskao.modernstylesettings_1.1-2_iphoneos-arm.deb
+Size: 6696
+MD5sum: 76d01afefdd3837feda5b9aa47bb05c0
+SHA1: ddd8e9ffc2aedd7d07c0d952a6f54cccb4f41a1c
+SHA256: 276a50c3fd2f9ad3f2fc658e20c028044e00e165a5b9f7aa5fa308ef9c12a3a1
+Section: Tweaks
+Description: 现代样式设置界面(iOS15样式边框圆角设置界面，包括WiFi界面)
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=modernstylesettingsDp
+Name: ModernStyleSettings
+Sileodepiction: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/ModernStyleSettings/Depiction
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: netskao.mtwmnosplash
 Version: 1.1-1
 Architecture: iphoneos-arm
