@@ -879,12 +879,12 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 328
-Depends: firmware (>= 9.0), mobilesubstrate
+Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/rootful/netskao.alipayhooks_1.1-3_iphoneos-arm.deb
-Size: 72144
-MD5sum: 67a4346417d8712850b72f04e81d1ade
-SHA1: c1935fcb72f5667a66496b8ea2498ea20bdb785a
-SHA256: cf0e5455a2449959d2af2d2aa2c5ede91353e95339cd3677c39c828ad909d01d
+Size: 72220
+MD5sum: 9d8e63649ee9e7a5d23b6b3e023ad392
+SHA1: 7828319a3b9220a8e7741e1564f267f3817cce95
+SHA256: 03ec566fc57f68bd83815c8f7dc1bb996135e89b1a6fe4354cdd3b8f89399d96
 Section: Netskao-NoAds
 Description: 支付宝去除底部理财选项(理财是不可能理财的, 只有收收钱勉强维持生活), 固定每天10w步
 Author: Netskao
@@ -1522,11 +1522,11 @@ Maintainer: Netskao <admin@initnil.com>
 Installed-Size: 134
 Depends: firmware (>= 11.0), mobilesubstrate, firmware (<< 15.0)
 Filename: ./debs/rootful/netskao.modernstylesettings_1.1-2_iphoneos-arm.deb
-Size: 6696
-MD5sum: 76d01afefdd3837feda5b9aa47bb05c0
-SHA1: ddd8e9ffc2aedd7d07c0d952a6f54cccb4f41a1c
-SHA256: 276a50c3fd2f9ad3f2fc658e20c028044e00e165a5b9f7aa5fa308ef9c12a3a1
-Section: Tweaks
+Size: 6692
+MD5sum: 756ea47205333a25e9dbe7026d05cc92
+SHA1: 627e3c79d9502142bcaeee2b02d95d5dc6fa3f16
+SHA256: cbf1600953573c6bcd8dffdd1b01ac83654de862f85e58d76ea1b4548d2bec40
+Section: Netskao-Tweaks
 Description: 现代样式设置界面(iOS15样式边框圆角设置界面，包括WiFi界面)
 Author: Netskao <admin@initnil.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=modernstylesettingsDp
