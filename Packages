@@ -1,3 +1,21 @@
+Package: com.netskao.dumpdecrypter
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 4308
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.dumpdecrypter_1.4-1_iphoneos-arm64.deb
+Size: 1287368
+MD5sum: 0e64c03cc16ec19e455de0f25c6ba24d
+SHA1: 0e444150a7a2b4c8b2bc118439fb6ac680efef65
+SHA256: b23857eac16612f19ed2ea149ec85062b3e24a4537961b9be331a62978dfdf42
+Section: Netskao-Tweaks
+Description: Decrypt iOS Apps
+Author: Netskao
+Icon: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/icon.png
+Name: DumpDecrypter
+Sileodepiction: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/Depiction
+
 Package: com.officialscheduler.mterminal-rootless
 Version: 1.4-1
 Architecture: iphoneos-arm64
@@ -2031,4 +2049,3 @@ Section: Netskao-NoAds
 Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
 Author: Netskao
 Name: 小红书 NoAds
-
