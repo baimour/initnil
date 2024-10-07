@@ -1,3 +1,35 @@
+Package: com.netskao.awemedownloadmedia
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 304
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemedownloadmedia_1.1-3_iphoneos-arm64.deb
+Size: 81356
+MD5sum: 5620544771da95583e1a9cfa9bffd1ab
+SHA1: e2b9a74689d48f46fc29b9a3d526bc9317812207
+SHA256: 6bde1ec0aebdd8c98daff49115c3671b99b44407066723050921e0066caec4b5
+Section: Netskao-Tweaks
+Description: 抖音无水印下载媒体，仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Name: AwemeDownloadMedia
+
+Package: com.netskao.awemefullscreen
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemefullscreen_1.1-8_iphoneos-arm64.deb
+Size: 23796
+MD5sum: 9cba1f9b7ea52c33e167914b4bc7b98c
+SHA1: 00825a4e1a4b01464eb2d51602d6b1eb7e0ded5e
+SHA256: 96af0e701ec0bc35166e4ef67e89a74a74da368ff68b6584458ed5c8b4692dfe
+Section: Netskao-Tweaks
+Description: 抖音全屏播放，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护
+Author: Netskao
+Name: AwemeFullScreen
+
 Package: com.netskao.dumpdecrypter
 Version: 1.4-1
 Architecture: iphoneos-arm64
@@ -11,6 +43,24 @@ SHA1: 0e444150a7a2b4c8b2bc118439fb6ac680efef65
 SHA256: b23857eac16612f19ed2ea149ec85062b3e24a4537961b9be331a62978dfdf42
 Section: Netskao-Tweaks
 Description: Decrypt iOS Apps
+Author: Netskao
+Icon: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/icon.png
+Name: DumpDecrypter
+Sileodepiction: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/Depiction
+
+Package: com.netskao.dumpdecrypter
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 4324
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.dumpdecrypter_1.4-4_iphoneos-arm64.deb
+Size: 1295776
+MD5sum: 61b5a871b0cbb1ccf865bca628030c1e
+SHA1: ac30b794a1885f4b6a0dfa72140eec32757c8080
+SHA256: c3db0a0b9997d4c8d9eab7d3b7f57d0d61226da1bae61fe4572cc87f989c4b8d
+Section: Netskao-Tweaks
+Description: 解密iOS应用和小组件
 Author: Netskao
 Icon: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/icon.png
 Name: DumpDecrypter
@@ -2049,3 +2099,4 @@ Section: Netskao-NoAds
 Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
 Author: Netskao
 Name: 小红书 NoAds
+
