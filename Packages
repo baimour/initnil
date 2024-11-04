@@ -1,3 +1,54 @@
+Package: com.netskao.appdata
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 12532
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/com.netskao.appdata_1.4.3_iphoneos-arm64.deb
+Size: 4625944
+MD5sum: bed75827552a5970588e5fc8d3559484
+SHA1: 0b7ebce8d579a483bc17caa9619e326ca3141dd0
+SHA256: 3c4fd99763495b7b8c7abeefb70722efddf605d664cabe20cb24920e91d839c0
+Section: Netskao-Tweaks
+Description: 从桌面查看和管理应用数据
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5049416
+MD5sum: 12981eb4bd7c2fa7699b6fc36229e567
+SHA1: 7ea8cdfc0a2e3503344d738bbb356ad9a03e6397
+SHA256: cd9e98916029010561056b3655ea7db6ce7efeb1059ae658c7c7b2e28ac7b105
+Section: Netskao-Tweaks
+Description: 从桌面查看和管理应用数据
+Author: Fouad Raheb
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
+Package: com.netskao.awemeclearlikes
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemeclearlikes_1.1-2_iphoneos-arm64.deb
+Size: 19856
+MD5sum: cc0810cc085f484badc1fff0d8680efb
+SHA1: ccf28e58593e2d9f0b10852e3ab6eded1044fedc
+SHA256: 21e0c26ae5e9a890a9eacfa7de9a661dea8b1f92cc262d1c6cdcb4a03783b0be
+Section: Netskao-Tweaks
+Description: 抖音清除所有喜欢，在我最喜欢的页面上摇动它开始！
+Author: Netskao
+Name: AwemeClearLikes
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemeclearlikes.json
+
 Package: com.netskao.awemedisablebar
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -29,6 +80,23 @@ Section: Netskao-Tweaks
 Description: 抖音禁用顶部/底部选项卡按钮，仅在30.3.0及更高版本上进行测试
 Author: Netskao
 Name: AwemeDisablebar
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemedisablebar_1.1-4_iphoneos-arm64.deb
+Size: 65244
+MD5sum: ccf079b79a790838490d645671f45387
+SHA1: c0de0d8aaead7669c5a6936fac358ee515bf842f
+SHA256: ca2ebaa474abaf49882d964788d7593dd18ec7ea4fa51fd367f537d7accde296
+Section: Netskao-Tweaks
+Description: 抖音禁用顶部/底部/右选项卡按钮，仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
 
 Package: com.netskao.awemedownloadmedia
 Version: 1.1-3
@@ -78,6 +146,23 @@ Description: 抖音无水印下载媒体，仅在30.3.0及更高版本上进行�
 Author: Netskao
 Name: AwemeDownloadMedia
 
+Package: com.netskao.awemedownloadmedia
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 456
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemedownloadmedia_1.1-8_iphoneos-arm64.deb
+Size: 146676
+MD5sum: b60f947d2a333e9ffa193d06442ccede
+SHA1: 4ae15ab7183752a880be7868c8f9a140a53b6ed0
+SHA256: 55a53d9d0699c47dde3f1f3ae10eaf9bf8bcb8999bacb7b12437dbe7d855f8f6
+Section: Netskao-Tweaks
+Description: 抖音无水印下载媒体，仅在31.7.0及更高版本上进行测试
+Author: Netskao
+Name: AwemeDownloadMedia
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedownloadmedia.json
+
 Package: com.netskao.awemefullscreen
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -109,6 +194,23 @@ Section: Netskao-Tweaks
 Description: 抖音视频显示时间，仅在30.3.0及更高版本上进行测试
 Author: Netskao
 Name: AwemeVideoTime
+
+Package: com.netskao.awemevideotime
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 124
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemevideotime_1.1-2_iphoneos-arm64.deb
+Size: 31676
+MD5sum: 485e04309d705886ede9bdb4d86c19dd
+SHA1: 864459b174dd0b3adfb6961ec5e36b7cd8f7d767
+SHA256: 88e458595fad72100e529143d7bc61807a84158a2e96640d768697404c486d92
+Section: Netskao-Tweaks
+Description: 抖音视频显示时间，仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Name: AwemeVideoTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
 
 Package: com.netskao.dumpdecrypter
 Version: 1.4-1
@@ -145,6 +247,40 @@ Author: Netskao
 Icon: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/icon.png
 Name: DumpDecrypter
 Sileodepiction: https://gitee.com/baimour/sileo-depiction.git/raw/master/SileoDepiction/DumpDecrypter/Depiction
+
+Package: com.netskao.dumpdecrypter
+Version: 1.4-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 896
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.dumpdecrypter_1.4-8_iphoneos-arm64.deb
+Size: 376448
+MD5sum: f2db2374047e4962923898ce34e57073
+SHA1: 1ebf6c085ca1f9546de571adb74cb8292f16533e
+SHA256: a1f6cfadb24d178e62e6614cb6c95b033097f084151db2febc5d9bb8bcab29ea
+Section: Netskao-Tweaks
+Description: 解密iOS应用和小组件，支持iOS15+，仅测试iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+
+Package: com.netskao.dumpdecrypter
+Version: 1.4-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 912
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.dumpdecrypter_1.4-9_iphoneos-arm64.deb
+Size: 376032
+MD5sum: e5b7a0b62cb2427503a3f730c28239e5
+SHA1: af3293d513033e503b0c1166e0e1156756e766a6
+SHA256: 08f52587f8312c8007d1047aa4c5681f769a91cc40ef624d99ee6b39bde0c4e9
+Section: Netskao-Tweaks
+Description: 解密iOS应用和小组件，支持iOS15+，仅测试iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
 
 Package: com.officialscheduler.mterminal-rootless
 Version: 1.4-1
@@ -726,6 +862,22 @@ Section: Netskao-Tweaks
 Description: 通知页面快速下拉以清理所有通知
 Author: Netskao
 Name: PullClearNC-Rootless
+
+Package: netskao.qqipadmodelogin
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 136
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootless/netskao.qqipadmodelogin_1.1-1_iphoneos-arm64.deb
+Size: 2890
+MD5sum: 3c822347679667f6859f4ff52058e66d
+SHA1: 907ab008f3cb2afba6a205f51da40713a19e8323
+SHA256: 07ec1ebeeaaaad4d1acd38a5a611949aaee2fd4a2742b6c2e8b1ec02e135b123
+Section: Netskao-NoAds
+Description: QQ模拟iPad模式登录
+Author: Netskao
+Name: QQiPadModeLogin
 
 Package: netskao.qqnotiavatar
 Version: 1.1-7
@@ -1860,6 +2012,22 @@ Section: Netskao-NoAds
 Description: 全民K歌NoAds去除启动广告，推荐列表中的广告等
 Author: Netskao
 Name: 全民K歌 NoAds
+
+Package: netskao.qqipadmodelogin
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 136
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootful/netskao.qqipadmodelogin_1.1-1_iphoneos-arm.deb
+Size: 2810
+MD5sum: 34287b656fa58340cf5659c136e5f27a
+SHA1: 2c1c745e830755df9056a5f388f3953892fb1cac
+SHA256: 279f59de2fa3cece113a29de559111610ce035fcdd0435e6fa340cd5c20079f3
+Section: Netskao-NoAds
+Description: QQ模拟iPad模式登录
+Author: Netskao
+Name: QQiPadModeLogin
 
 Package: netskao.qqpurification
 Version: 2.2-5
