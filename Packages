@@ -98,6 +98,23 @@ Author: Netskao
 Name: AwemeDisableBar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
 
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64.deb
+Size: 305184
+MD5sum: 9f8c54a52e7d61cdc16004d1945c6d6d
+SHA1: 2a6d393d7a1d56d59cb2fee28652d099a1ce7eb2
+SHA256: 896ced3bcdf011c4d866c5db71375446abe8674ee7646cbfca6059c1f6c11d07
+Section: Netskao-Tweaks
+Description: 抖音禁用顶部/底部/右选项卡按钮，仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
+
 Package: com.netskao.awemedownloadmedia
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -178,6 +195,23 @@ Section: Netskao-Tweaks
 Description: 抖音全屏播放，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护
 Author: Netskao
 Name: AwemeFullScreen
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 384
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemefullscreen_1.2-3_iphoneos-arm64.deb
+Size: 161628
+MD5sum: 59df87c5c3dce7ba96086dc7b381930b
+SHA1: 324d541c89cd51c9995c0db54f4c18d51d6b3b21
+SHA256: ef4aa2fa04680f513c6bd37da9bce80b31540cc388a3b66a515b825dae39c748
+Section: Netskao-Tweaks
+Description: 抖音全屏播放，仅在31.9.0版本上进行测试
+Author: Netskao
+Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
 
 Package: com.netskao.awemevideotime
 Version: 1.1-1
