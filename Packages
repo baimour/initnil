@@ -32,6 +32,23 @@ Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
+Package: com.netskao.awemealwaysshowtime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/rootless/com.netskao.awemealwaysshowtime_1.1-1_iphoneos-arm64.deb
+Size: 3080
+MD5sum: 9f5bdceb18749928352f652783cced29
+SHA1: 6415f697fa31eea4289e3ed979a352a3830b6dd7
+SHA256: 562f7fcc5e846f8056aad5743f032772eb633e1a198bef0f65fd56e91839b548
+Section: NoAds
+Description: 抖音始终显示视频创建时间
+Author: Netskao
+Name: 抖音显示时间
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemealwaysshowtime.json
+
 Package: com.netskao.awemeclearlikes
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -310,6 +327,23 @@ Size: 376032
 MD5sum: e5b7a0b62cb2427503a3f730c28239e5
 SHA1: af3293d513033e503b0c1166e0e1156756e766a6
 SHA256: 08f52587f8312c8007d1047aa4c5681f769a91cc40ef624d99ee6b39bde0c4e9
+Section: Netskao-Tweaks
+Description: 解密iOS应用和小组件，支持iOS15+，仅测试iOS16.1
+Author: Netskao
+Name: DumpDecrypter
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Size: 393912
+MD5sum: 829735f3dfee7dd75217b0709da7f652
+SHA1: 158e199b12b76c0971b117b71df202774f8764c9
+SHA256: 5ccea82bcc92108241cd6c80d42d171897bb28baf20cb996189949a311ad6057
 Section: Netskao-Tweaks
 Description: 解密iOS应用和小组件，支持iOS15+，仅测试iOS16.1
 Author: Netskao
